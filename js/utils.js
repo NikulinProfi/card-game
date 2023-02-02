@@ -21,14 +21,14 @@ export const duplicateArray = (array) =>
 
 export const createIconsArray = (initialCount) => {
   const cardsIcons = [
-    'compass',
+    'code',
     'cloud',
-    'play',
-    'bolt',
-    'stop',
-    'cogs',
-    'atom',
-    'basketball-ball',
+    'microchip',
+    'keyboard',
+    'terminal',
+    'qrcode',
+    'folder-open',
+    'window',
   ]
 
   switch (initialCount) {
